@@ -1,6 +1,10 @@
 bfcs
 ====
 
-Brainfuck interpreter.
+Simple Brainfuck interpreter written in C#. Implemented are only the very basic features of the language specification.
 
-2009
+Brainfuck code must be passed as a file parameter when executing.
+
+
+
+Enrique CR.
